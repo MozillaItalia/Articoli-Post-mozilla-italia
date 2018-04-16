@@ -14,5 +14,4 @@ Tipo di Inserimento:
 Inserire nei commenti la natura della richiesta o il testo proposto.
 
 Grazie del tuo contributo da parte di
-
 Tutta la comunità di Mozilla Italia
