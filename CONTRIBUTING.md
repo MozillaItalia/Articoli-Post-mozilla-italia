@@ -1,13 +1,11 @@
 
-
 ## Benvenuti!
 
-Questo repository è dedicato a chi vuole contribuire alla stesura di articoli e post per i canali sociali da pubblicare rispettivamente sul blog e sugli account pubblici di Mozilla Italia.
+Questo repository è dedicato a chi vuole contribuire alla stesura (o revisione) di articoli e aggiornamenti di stato da pubblicare rispettivamente sul blog e sugli account Social di Mozilla Italia.
 
-Aprire un nuovo issue seguendo il template proposto, quindi specificare la tipologia di testo creato o la revisione di una pubblicazione già andata online (fornendo maggiori dettagli possibili).
-Creare una pull requests del file .md contenente il testo proposto.
+Aprire un nuovo *issue* seguendo il [template proposto](https://github.com/MozillaItalia/Articoli-Post-mozilla-italia/blob/master/docs/issue_template.md), quindi specificare la tipologia di testo creato o la revisione di una pubblicazione già andata online (fornendo maggiori dettagli possibili).
 
-**N.B.:** Il file .md deve essere inserito nella cartella [**PUBBLICATI**](https://github.com/MozillaItalia/Articoli-Post-mozilla-italia/tree/master/PUBBLICATI).
+Creare una *pull request* del file .md contenente il testo proposto, quindi inserirlo nella cartella [**PUBBLICATI**](https://github.com/MozillaItalia/Articoli-Post-mozilla-italia/tree/master/PUBBLICATI) al termine del lavoro (post-pubblicazione).
 
 È necessario inserire nella issue aperta il riferimeto alla pull request contenente il testo che si vuole proporre, al fine di eseguirne una revisione. Ultimata quest'ultima, il Team che si occupa della pubblicazione dei contenuti online terminerà il lavoro.
 
