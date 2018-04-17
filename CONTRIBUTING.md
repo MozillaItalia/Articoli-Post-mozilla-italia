@@ -7,6 +7,6 @@ Aprire un nuovo *issue* seguendo il [template proposto](https://github.com/Mozil
 
 Creare una *pull request* del file .md contenente il testo proposto, quindi inserirlo nella cartella [**PUBBLICATI**](https://github.com/MozillaItalia/Articoli-Post-mozilla-italia/tree/master/PUBBLICATI) al termine del lavoro (post-pubblicazione).
 
-È necessario inserire nella issue aperta il riferimeto alla pull request contenente il testo che si vuole proporre, al fine di eseguirne una revisione. Ultimata quest'ultima, il Team che si occupa della pubblicazione dei contenuti online terminerà il lavoro.
+È necessario inserire nella issue aperta il riferimento alla pull request contenente il testo che si vuole proporre, al fine di eseguirne una revisione. Ultimata quest'ultima, il Team che si occupa della pubblicazione dei contenuti online terminerà il lavoro.
 
 Per qualsiasi informazione inerente questo repository è possibile contattare uno dei maintainer, oppure potete inviare una email all'indirizzo github@mozillaitalia.org.
