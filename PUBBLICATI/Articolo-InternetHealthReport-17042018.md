@@ -7,12 +7,12 @@ Mozilla ha pubblicato la nuova versione del Rapporto sullo stato di salute di In
 
 Il rapporto si articola in cinque tematiche principali:
 
-    Decentralization (Decentramento tecnologico), ossia, chi sta controllando Internet?
-    Digital Inclusion (Inclusione digitale), ossia, chi ha accesso alla rete?
-    Openness (Apertura tecnologica), ossia, quanto sono “aperte” le tecnologie utilizzate per creare Internet?
-    Privacy & Security (Privacy e sicurezza), ossia, Internet è sicuro?
-    Web Literacy (Alfabetizzazione digitale nelle tecnologie del Web), ossia, chi ha l’opportunità di plasmare la propria 
-    esperienza online?
+* Decentralization (Decentramento tecnologico), ossia, chi sta controllando Internet?
+* Digital Inclusion (Inclusione digitale), ossia, chi ha accesso alla rete?
+* Openness (Apertura tecnologica), ossia, quanto sono “aperte” le tecnologie utilizzate per creare Internet?
+* Privacy & Security (Privacy e sicurezza), ossia, Internet è sicuro?
+* Web Literacy (Alfabetizzazione digitale nelle tecnologie del Web), ossia, chi ha l’opportunità di plasmare la propria 
+  esperienza online?
 
 All’interno di ogni area tematica si trovano informazioni per comprenderne meglio il significato e la portata, ma soprattutto 
 le storie e le esperienze globali che hanno inspirato le azioni di milioni di volontari in tutto il mondo per salvaguardare 
